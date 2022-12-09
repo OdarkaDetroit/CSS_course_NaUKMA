@@ -1,0 +1,1 @@
+In this project, I collected data from the Telegram and made a research on it. Based on the data from my account, it was investigated in several ways - texting, and monitoring of the chats themselves.
